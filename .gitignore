@@ -1,0 +1,11 @@
+# nvim junk
+nvim/.cache/
+nvim/node_modules/
+nvim/plugin/packer_compiled.lua
+
+# OS stuff
+.DS_Store
+
+# secrets
+*.local
+.env
